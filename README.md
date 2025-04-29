@@ -1,5 +1,6 @@
 # vacancy_scraper
 A Python program that automatically searches for job vacancies across popular Estonian job sites like cv.ee, cvkeskus.ee, and LinkedIn.
+
 📌 Features:
 Search for vacancies by keywords (e.g., Data Analyst, Python Developer)
 
